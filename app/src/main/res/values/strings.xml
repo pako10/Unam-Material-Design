@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Captura Datos</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripción del Contacto</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="anterior">Editar Datos</string>
+    <string name="fecha">Seleccionar Fecha</string>
+    <string name="date">Fecha</string>
+    <string name="editar">Editar Contacto</string>
+    <string name="config">Confirmar los Datos</string>
+
+
+</resources>
